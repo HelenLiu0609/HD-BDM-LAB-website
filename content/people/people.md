@@ -19,7 +19,7 @@ content:
     - Principal Investigators
     - Ph.D students
     - Master Students
-    - Visitors
+    - Research Assistant 
     - Alumni
 design:
   show_interests: false
