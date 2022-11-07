@@ -32,7 +32,7 @@ content:
         brightness: 0.7
         media: contact.jpg
     - title: World-Class Human Behavior Lab
-      content: 'Just opened last month!'
+      content: ''
       align: right
       background:
         position: center
