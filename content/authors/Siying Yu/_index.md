@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Yuche Chen
+title: Siying Yu
 
 # Username (this should match the folder name)
 authors:
-  - Yuche Chen
+  - Siying Yu
 
 # Is this the primary user of the site?
 superuser: false
