@@ -21,7 +21,10 @@ organizations:
 bio: 
 
 interests:
-  - Social decision making
+  - Social cognition
+  - Social identity
+  - Metacognition
+  - Judgment and decision making
 
 
 education:
