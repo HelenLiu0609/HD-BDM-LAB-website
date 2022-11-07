@@ -54,4 +54,5 @@ design:
   columns: '1'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+We seek candidates with a solid background in experimental psychology. We also welcome candidates who excel in one of the following areas: behavioral science, data analytics, neuroscience and so on. Candidates must hold a master's degree or be expected to acquire master's within 6 months. 
+We are located in Shenzhen, a modern metropolis that links Hong Kong to China’s mainland. Interested candidates should send a cover letter, current CV to Prof. Xiaotian Wang: xtwang@cuhk.edu.cn. 

@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The **Human Development & Behavioral Decision Making Lab** focuses on the study of human development and human decision-making process on rigorous scientific approaches.

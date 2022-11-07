@@ -64,6 +64,6 @@ user_groups:
    - Ph.D students
   
 ---
-I'm a first-year Ph.D student at the Chinese University of Hong Kong (Shenzhen). Before then, I obtained my master's in Educational Psychogy at the University of Sydeny, bachelor of Science at the Australian National University and Southwest University. My resaerch interets include self-cognition, social decision making, computational modelling and meta-research. I'm a coffee lover, cat lover and garden lover. 
+I'm a first-year Ph.D student at the Chinese University of Hong Kong (Shenzhen). My resaerch interets include self-cognition, social decision making, computational modelling and meta-research. In my spare time, I'm a coffee lover, cat lover and garden lover. 
 
 
