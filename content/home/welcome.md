@@ -11,7 +11,7 @@ title: |
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
   # Add custom styles
   css_style:
   css_class:
@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **Human Development & Behavioral Decision Making Lab** focuses on the study of human development and human decision-making process on rigorous scientific approaches.
+The **HD-BDM Lab** focuses on the study of human development and human decision-making process on rigorous scientific approaches.
