@@ -64,6 +64,6 @@ user_groups:
    - Ph.D students
   
 ---
-I'm a first-year Ph.D student at the Chinese University of Hong Kong (Shenzhen). My resaerch interets include self-cognition, social decision making, computational modelling and meta-research. In my spare time, I'm a coffee lover, cat lover and garden lover. 
+I'm a first-year Ph.D student at the Chinese University of Hong Kong (Shenzhen). My research focuses on self-relatedness and risky choice decision-making. I’m intended to use some cognitive models, such as the sequential sampling model or reinforcement learning models to represent human decision-making process. In my spare time, I'm a coffee lover, cat lover and garden lover. 
 
 
