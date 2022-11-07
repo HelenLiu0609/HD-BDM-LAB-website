@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **HD-BDM Lab** focuses on the study of human development and human decision-making process on rigorous scientific approaches.
+The **HD-BDM Lab** focuses on the study of human development and human decision-making process with rigorous scientific approaches.
