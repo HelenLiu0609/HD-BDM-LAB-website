@@ -6,7 +6,8 @@ title: Xiaotian Wang
 superuser: true
 
 # Role/position
-role: Professor, Director of Applied Psychology Programme
+role: Professor, 
+      Director of Applied Psychology Programme
 
 # Organizations/Affiliations
 organizations:
@@ -66,4 +67,4 @@ user_groups:
   - Principal Investigator
 ---
 
-X.T. (XiaoTian) Wang (王晓田) is a professor and the director of the Applied Psychology program at the Chinese University of Hong Kong (Shenzhen), a fellow of the Psychonomic Society, and a "high-level foreign expert" endorsed by the People's Government of Shenzhen Municipality. He is also a professor emeritus at the University of South Dakota. He was a visiting or adjunct professor at Peking University, China Europe International Business School, Max Planck Institute in Berlin, Germany, Hong Kong University of Science and Technology, and Singapore Management University.  
+  X.T. (XiaoTian) Wang (王晓田) is a professor and the director of the Applied Psychology program at the Chinese University of Hong Kong (Shenzhen), a fellow of the Psychonomic Society, and a "high-level foreign expert" endorsed by the People's Government of Shenzhen Municipality. He is also a professor emeritus at the University of South Dakota. He was a visiting or adjunct professor at Peking University, China Europe International Business School, Max Planck Institute in Berlin, Germany, Hong Kong University of Science and Technology, and Singapore Management University.  
