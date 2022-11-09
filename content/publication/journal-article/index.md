@@ -1,16 +1,16 @@
 ---
-title: 'An example journal article'
+title: 'Episodic future thinking and anticipatory emotions: Effects on delay discounting and preventive behaviors during COVID-19'
 authors:
   - admin
-  - Robert Ford
+  - Wang*, P., Lu, J., Zhou, J., Li, G. & Garelik, S.
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
-date: '2015-09-01T00:00:00Z'
-doi: ''
+date: '2022'
+doi: 'https://doi.org/10.1111/aphw.12350'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '14, 1–20'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +19,15 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of Source Themes, 1*(1)'
+publication: 'Applied Psychology: Health and Well-Being, 14, 1–20'
 publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We examined the effects of anticipatory emotions induced by episodic future thinking on the basic decision-process of delay discounting and preventive behaviors during the most stringent COVID-19 "lockdown" period in China. We define anticipatory emotions as any discrete emotions induced from anticipating decision outcomes and felt during decision-making. In an online study conducted with healthy volunteers, anticipatory emotions were induced and appraised by asking participants to rate various emotions they feel when thinking they may be infected by COVID-19 (N = 246). The participants in the control group reported their present emotions during the COVID-19 pandemic (N = 245). Compared with the control group, the participants in the anticipatory emotion group had a higher future-oriented preference for monetary rewards, with a significantly lower delay discounting rate. These participants also had a higher intention to engage in proactive, preventive behaviors. The likelihood estimate of being infected by COVID-19 mediated these effects. Moreover, anticipatory disgust increased the preference for larger-and-later rewards. Anticipatory emotions induced by future thinking guide fast and rational decision-making in a health crisis.
+
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
   - Source Themes
@@ -34,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://doi.org/10.1111/aphw.12350
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -69,4 +71,4 @@ slides:
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+Supplementary notes can be added here, including [code and math]().
