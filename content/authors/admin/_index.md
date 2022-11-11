@@ -1,6 +1,6 @@
 ---
 # Display name
-title: xt Wang
+title: Xiaotian Wang
 
 # Is this the primary user of the site?
 superuser: true
