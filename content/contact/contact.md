@@ -25,8 +25,8 @@ content:
     country: China
     country_code: CN
   coordinates:
-    latitude: '22.6942207'
-    longitude: '114.2196460'
+    latitude: '22.36830'
+    longitude: '114.2173823'
   directions: Enter Teaching Building C and take the elevator to Office 545 on Floor 5
   office_hours:
     - ''
