@@ -31,7 +31,7 @@ content:
         color: '#555'
         brightness: 0.7
         media: contact.jpg
-    - title: Revolutionizing your understanding of human behavior
+    - title: Revolutionizing understanding of human behavior
       content: ''
       align: right
       background:
