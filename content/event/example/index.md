@@ -1,8 +1,8 @@
 ---
-title: Example Event
+title: PSCHONOMIC SOCIETY 63RD ANNUAL MEETING
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Conference & Meeting
+event_url: https://www.psychonomic.org/page/2022AnnualMeeting
 
 location: Wowchemy HQ
 address:
