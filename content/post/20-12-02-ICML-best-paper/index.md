@@ -1,16 +1,13 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
-date: 2020-12-02
+title: 中国心理学会经济心理学专业委员会2022年学术年会通知（第三轮）
+date: 2022-11-07
 image:
   focal_point: 'top'
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+中国心理学会经济心理学专业委员会2022年学术年会将于2022年11月18日至11月20日召开。本次会议由中国心理学会经济心理学专业委员会与广州大学教育学院共同主办。大会主题是“观照经济现实的心理学”.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+本次大会主题是“观照经济现实的心理学”，旨在响应党和国家领导人“要以中国为观照、以时代为观照，立足中国实际，解决中国问题”的号召，扩大经济心理学相关领域的学术交流，促进经济心理学在实践中的广泛应用，并服务于国家重大经济战略和社会发展需要。大会热忱邀请来自经济心理学研究领域及相关的行为经济学、金融投资心理学、营销心理学、消费者行为等领域的专家学者、企事业单位人士及在校学生莅临本次学术年会，交流观点，共襄盛举。因疫情防控原因，此次会议改为线上举行，免收会务费。For more information and agenda, visit https://www.cpsbeijing.org/cms/show.action?code=publish_402880766305a05d016305ffc2710078&siteid=100000&newsid=78a8156800834473bbd92d55cdb5f987&channelid=00000000
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
-
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
