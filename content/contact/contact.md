@@ -15,23 +15,23 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: xtwang@cuhk.edu.cn
+  phone: 0755-84273180（申请人咨询）
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: 龙岗区龙翔大道 2001 号香港中文大学(深圳) 教学楼B TB545
+    city: 深圳市
+    region: 广东省
+    postcode: '518172'
+    country: China
+    country_code: CN
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '22.6878'
+    longitude: '114.2099'
+  directions: Enter Teaching Building C and take the elevator to Office 545 on Floor 5
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    - ''
+    - ''
+  appointment_url: ''
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
@@ -54,5 +54,5 @@ design:
   columns: '1'
 ---
 
-We are seeking candidates with a solid background in experimental psychology. We also welcome candidates who excel in one of the following areas: behavioral science, data analytics, neuroscience and so on. Candidates must hold a master's degree or be expected to acquire master's within 6 months. 
+We are currently seeking candidates with a solid background in experimental psychology. We also welcome candidates who excel in one of the following areas: behavioral science, data analytics, neuroscience and so on. Candidates must hold a master's degree or be expected to acquire master's within 6 months. 
 We are located in Shenzhen, a modern metropolis that links Hong Kong to China’s mainland. Interested candidates should send a cover letter, current CV to Prof. Xiaotian Wang: xtwang@cuhk.edu.cn. 
