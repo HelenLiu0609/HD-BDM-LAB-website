@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: A coffee lover, cat lover and garden lover.I hope I can make more efforts on the road of scientific research. 
+bio: Generally, I am interested in cognitive processes underlying behavioral decision making and the application of relevant findings to real-world scenarios. Besides research, I'm a coffee lover, cat lover and garden lover. 
 
 interests:
   - Self-cognition 
@@ -65,6 +65,6 @@ user_groups:
 
   
 ---
-I'm a first-year Ph.D student at the Chinese University of Hong Kong (Shenzhen). My research focuses on self-relatedness and risky choice decision-making. I’m intended to use some cognitive models, such as the sequential sampling model or reinforcement learning models to represent human decision-making process. In my spare time, I'm a coffee lover, cat lover and garden lover. 
+I'm currently a first-year Ph.D student at the Chinese University of Hong Kong (Shenzhen). My research focuses on self-relatedness and risky choice decision-making. I’m intended to use some cognitive models, such as the sequential sampling model or reinforcement learning models to expore the cognitive processes underlying behavioral decision making. 
 
 
